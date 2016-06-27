@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[grassrootsapostles]]></title>
+        <description><![CDATA[grassrootsapostles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 16:43:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This site is still just an idea. I don't know where it will go. I don't know how the wind of the spirit will carry it. What's the basic idea? That the five-fold gifts of Christ are more ubiquitous than we think. There are apostles and prophets and teachers in some of the most unexpected places. They don't have titles. They don't have huge followings. They aren't all public speakers. They simply love in the way they were made to love. Their expressions of love look different. Apostles are not all the same. Just like fathers are not all the same. </p>]]></description>
+            <link>undefinedthis-site-is-still-just-an-idea-i-dont-know-where-it-will/index.html</link>
+            <guid isPermaLink="false">988b1981-74d6-42e6-ba32-b6f2f000065f</guid>
+            <pubDate>Mon, 27 Jun 2016 16:43:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
